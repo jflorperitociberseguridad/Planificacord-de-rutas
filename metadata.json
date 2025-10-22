@@ -1,0 +1,7 @@
+{
+  "name": "AI Dive Route Planner",
+  "description": "An AI-powered web application to help scuba divers plan their dives, including safety summaries, destination discovery, and budget calculations. It provides tools for calculating air consumption and checklists for equipment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
